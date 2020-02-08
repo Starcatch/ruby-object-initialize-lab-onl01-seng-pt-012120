@@ -6,10 +6,11 @@ class Dog
   
   
   def name_breed=(name, breed = "Mutt")
-    @name = dogs_name
-    @breed = dogs_breed
+    @name = name
+    @breed = breed
   end
 
+def
  
 end 
   
