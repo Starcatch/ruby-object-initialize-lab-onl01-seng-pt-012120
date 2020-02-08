@@ -5,7 +5,7 @@ class Dog
   end 
   
   
-  def name_breed=(name, breed = "Mutt")
+  def breed=(name, breed = "Mutt")
     @name = name
     @breed = breed
   end
